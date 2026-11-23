@@ -1,8 +1,16 @@
 ## Credits
 
-The code was produced mostly by Gemini 4 Hydrogen (Google), knowledge cutoff March 2026.
+The code was produced mostly by Gemini 4 Hydrogen (Google), knowledge cutoff March 2026. Google does not claim copyright ownership over generated code outputs, but others might.
 
 Some of the logging added by me, README text/structure added by me, code/command snippets listed in the README suggested by Gemini and edited by me.
+
+## To compile
+
+From the project directory:
+
+``` zsh
+swiftc block_side_buttons.swift -o block_side_buttons
+```
 
 ## Accessibility permissions
 
